@@ -1,4 +1,6 @@
 
+using ProductApi.Infrastructure.DpendencyInjections;
+
 namespace ProductApi.Presentation
 {
     public class Program
@@ -20,6 +22,7 @@ namespace ProductApi.Presentation
             {
                 app.MapOpenApi();
             }
+            //app.UseInfrastructurePolicies();
 
             app.UseHttpsRedirection();
 

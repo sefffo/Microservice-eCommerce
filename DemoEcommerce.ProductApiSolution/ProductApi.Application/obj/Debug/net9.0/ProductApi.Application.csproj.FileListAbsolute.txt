@@ -9,3 +9,10 @@ S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcomm
 S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\refint\ProductApi.Application.dll
 S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.pdb
 S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ref\ProductApi.Application.dll
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\Ecommerce.SherdLibrary.dll
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Domain.dll
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\Ecommerce.SherdLibrary.pdb
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Domain.pdb
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.csproj.AssemblyReference.cache
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.sourcelink.json
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductA.E443A747.Up2Date
