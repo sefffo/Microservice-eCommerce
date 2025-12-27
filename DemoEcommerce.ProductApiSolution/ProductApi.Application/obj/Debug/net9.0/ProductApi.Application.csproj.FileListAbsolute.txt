@@ -1,0 +1,11 @@
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Application.deps.json
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Application.dll
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Application.pdb
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.AssemblyInfoInputs.cache
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.AssemblyInfo.cs
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.dll
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\refint\ProductApi.Application.dll
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.pdb
+S:\Road to full stack\BackEnd\CodeWay Internship\MicroService Studying\DemoEcommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ref\ProductApi.Application.dll

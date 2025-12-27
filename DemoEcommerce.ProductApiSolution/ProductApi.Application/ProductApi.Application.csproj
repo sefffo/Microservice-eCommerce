@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DemoEcommerce.SharedLibrarySolution\Ecommerce.SherdLibrary\Ecommerce.SherdLibrary.csproj" />
+    <ProjectReference Include="..\ProductApi.Domain\ProductApi.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

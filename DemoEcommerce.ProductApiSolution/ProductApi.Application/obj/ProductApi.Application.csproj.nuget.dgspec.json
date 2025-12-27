@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj": {}
+  },
+  "projects": {
+    "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
+        "projectName": "ProductApi.Application",
+        "projectPath": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
+        "packagesPath": "C:\\Users\\saif lotfy\\.nuget\\packages\\",
+        "outputPath": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saif lotfy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj": {
+                "projectPath": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj"
+              },
+              "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Ecommerce.SherdLibrary.csproj": {
+                "projectPath": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Ecommerce.SherdLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
+        "projectName": "ProductApi.Domain",
+        "projectPath": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\saif lotfy\\.nuget\\packages\\",
+        "outputPath": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saif lotfy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Ecommerce.SherdLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Ecommerce.SherdLibrary.csproj",
+        "projectName": "Ecommerce.SherdLibrary",
+        "projectPath": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Ecommerce.SherdLibrary.csproj",
+        "packagesPath": "C:\\Users\\saif lotfy\\.nuget\\packages\\",
+        "outputPath": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saif lotfy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
