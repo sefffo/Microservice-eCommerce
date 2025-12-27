@@ -1,6 +1,7 @@
 
 using ProductApi.Infrastructure.DpendencyInjections;
-
+using Scalar.AspNetCore;
+//using ProductApi.Infrastructure.DpendencyInjections.ServiceContainer;
 namespace ProductApi.Presentation
 {
     public class Program
@@ -12,8 +13,10 @@ namespace ProductApi.Presentation
             // Add services to the container.
 
             builder.Services.AddControllers();
-            // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
+
             builder.Services.AddOpenApi();
+            builder.Services.AddInfrastructureServices(builder.Configuration);//wht does this mean?
+
 
             var app = builder.Build();
 
@@ -21,7 +24,10 @@ namespace ProductApi.Presentation
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
+                app.MapScalarApiReference(); // Add Scalar UI
             }
+
+            app.UseInfrastructurePolicies(); //      After mapping endpoints
             //app.UseInfrastructurePolicies();
 
             app.UseHttpsRedirection();

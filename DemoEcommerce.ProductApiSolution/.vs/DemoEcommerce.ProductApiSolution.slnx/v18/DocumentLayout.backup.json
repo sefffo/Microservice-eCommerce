@@ -3,22 +3,28 @@
   "WorkspaceRootPath": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|s:\\road to full stack\\backend\\codeway internship\\microservice studying\\demoecommerce.productapisolution\\productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|s:\\road to full stack\\backend\\codeway internship\\microservice studying\\demoecommerce.productapisolution\\productapi.application\\dto\u0027s\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dto\u0027s\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|s:\\road to full stack\\backend\\codeway internship\\microservice studying\\demoecommerce.productapisolution\\productapi.application\\dto\u0027s\\conversions\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dto\u0027s\\conversions\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|s:\\road to full stack\\backend\\codeway internship\\microservice studying\\demoecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2B3A2A2-CB0B-7EB7-3A3E-E93824E3CD87}|..\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Ecommerce.SherdLibrary.csproj|s:\\road to full stack\\backend\\codeway internship\\microservice studying\\demoecommerce.sharedlibrarysolution\\ecommerce.sherdlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|s:\\road to full stack\\backend\\codeway internship\\microservice studying\\demoecommerce.productapisolution\\productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|s:\\road to full stack\\backend\\codeway internship\\microservice studying\\demoecommerce.productapisolution\\productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B3A2A2-CB0B-7EB7-3A3E-E93824E3CD87}|..\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Ecommerce.SherdLibrary.csproj|s:\\road to full stack\\backend\\codeway internship\\microservice studying\\demoecommerce.sharedlibrarysolution\\ecommerce.sherdlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|s:\\road to full stack\\backend\\codeway internship\\microservice studying\\demoecommerce.productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,19 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IGenericInterface.cs",
-              "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Interface\\IGenericInterface.cs",
-              "RelativeDocumentMoniker": "..\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Interface\\IGenericInterface.cs",
-              "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Interface\\IGenericInterface.cs",
-              "RelativeToolTip": "..\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\Interface\\IGenericInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\DTO\u0027s\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ProductApi.Application\\DTO\u0027s\\ProductDto.cs",
+              "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\DTO\u0027s\\ProductDto.cs",
+              "RelativeToolTip": "ProductApi.Application\\DTO\u0027s\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T19:03:13.099Z",
+              "WhenOpened": "2025-12-27T21:07:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductApi.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwGYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:31:57.699Z",
               "EditorCaption": ""
             },
             {
@@ -53,54 +72,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
-              "RelativeDocumentMoniker": "ProductApi.Application\\Interfaces\\IProduct.cs",
-              "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
-              "RelativeToolTip": "ProductApi.Application\\Interfaces\\IProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T19:03:11.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
-              "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T17:37:49.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepo.cs",
               "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepo.cs",
               "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepo.cs",
               "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepo.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAA6wEQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA0wGAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T17:06:19.024Z",
+              "WhenOpened": "2025-12-27T20:34:44.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductConversion.cs",
+              "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\DTO\u0027s\\Conversions\\ProductConversion.cs",
+              "RelativeDocumentMoniker": "ProductApi.Application\\DTO\u0027s\\Conversions\\ProductConversion.cs",
+              "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Application\\DTO\u0027s\\Conversions\\ProductConversion.cs",
+              "RelativeToolTip": "ProductApi.Application\\DTO\u0027s\\Conversions\\ProductConversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:38:48.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Program.cs",
+              "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeToolTip": "ProductApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:22:59.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SharedServiceContainer.cs",
-              "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeDocumentMoniker": "..\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeToolTip": "..\\DemoEcommerce.SharedLibrarySolution\\Ecommerce.SherdLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvx0AAAAcAAAAAAAAAA==",
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
+              "ToolTip": "S:\\Road to full stack\\BackEnd\\CodeWay Internship\\MicroService Studying\\DemoEcommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T17:36:35.126Z",
+              "WhenOpened": "2025-12-27T20:30:06.435Z",
               "EditorCaption": ""
             }
           ]

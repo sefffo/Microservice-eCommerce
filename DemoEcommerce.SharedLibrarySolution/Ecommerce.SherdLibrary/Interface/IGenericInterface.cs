@@ -9,7 +9,7 @@ namespace Ecommerce.SherdLibrary.Interface
         Task<Ecommerce.SherdLibrary.Responses.Response> CreateAsync(T Entity);
         Task<Ecommerce.SherdLibrary.Responses.Response> UpdateAsync(T Entity);
         Task<Ecommerce.SherdLibrary.Responses.Response> DeleteAsync(T Entity);
-        Task<IEnumerable<T>> GetAllAsync(T Entity);
+        Task<IEnumerable<T>> GetAllAsync();
         Task<T> FindByIdAsync(int id);
         //3shan lw 3ayz a3ml filter zy el specification pattern
         Task<T> GetByAsync(Expression<Func<T, bool>> Predicate);

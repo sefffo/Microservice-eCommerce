@@ -37,7 +37,7 @@ namespace ProductApi.Infrastructure.Repositories
                     return new Response { flag = false, message = "Failed to create product." };
 
                 await context.SaveChangesAsync(); // Save changes to the database
-                return new Response { flag = true, message = $"Product : {getProduct.Name} created successfully." };
+                return new Response { flag = true, message = $"Product : {Entity.Name} created successfully." };
 
             }
             catch (Exception ex)
@@ -102,7 +102,7 @@ namespace ProductApi.Infrastructure.Repositories
 
         }
 
-        public async Task<IEnumerable<Product>> GetAllAsync(Product Entity)
+        public async Task<IEnumerable<Product>> GetAllAsync()
         {
             try
             {
@@ -163,5 +163,7 @@ namespace ProductApi.Infrastructure.Repositories
             }
         }
 
+
+        
     }
 }
